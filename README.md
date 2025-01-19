@@ -16,7 +16,7 @@ Haru600 is free to use for:
 There are no restrictions—use it however you like!
 
 ## Installation
-1. Clone this repository or download the font files (`.ttf`) from the **Releases** section.
+1. Clone this repository or download the font files (`.ttf`) at [Haru600-Regular.ttf](HaruHaru600-Regular.ttf)
 2. Install the font on your device:
    - **Windows**: Right-click the `.ttf` file and select "Install."
    - **Mac**: Double-click the `.ttf` file and click "Install Font."
