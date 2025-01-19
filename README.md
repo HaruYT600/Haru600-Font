@@ -30,4 +30,4 @@ Haru600 is created by **HaruYT600**, a passionate content creator. Check out the
 
 ## Showcase
 Here's how Haru600 looks in action:  
-![Font Sample](samples/sample-text.png)
+![Font Sample](IMG_4409.jpeg)
