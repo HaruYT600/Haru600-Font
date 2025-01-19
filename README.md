@@ -29,5 +29,4 @@ Haru600 is licensed under the **SIL Open Font License (OFL) v1.1**, which allows
 Haru600 is created by **HaruYT600**, a passionate content creator. Check out their work on [YouTube](https://youtube.com/@HaruYT600).
 
 ## Showcase
-Here's how Haru600 looks in action:  
 ![Font Sample](IMG_4409.jpeg)
